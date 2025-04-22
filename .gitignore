@@ -32,6 +32,10 @@ migrate_working_dir/
 .pub-cache/
 .pub/
 /build/
+/assets/sounds/Deutsche Memes/*.mp3
+/assets/sounds/drawnTogether/*.mp3
+/assets/sounds/spongeBob/*.mp3
+/assets/images/*
 
 # Symbolication related
 app.*.symbols
