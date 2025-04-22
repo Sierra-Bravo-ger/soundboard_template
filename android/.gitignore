@@ -1,0 +1,49 @@
+# Dart
+.dart_tool/
+.idea/
+.vscode/
+.packages
+pubspec.lock
+
+# Flutter specific
+.flutter-plugins
+.flutter-plugins-dependencies
+.flutter-versions
+.metadata
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks
+ios/Pods
+ios/Runner.xcworkspace
+.android/
+.gradle/
+
+# Personal
+*.iml
+*.log
+*.tmp
+*.swp
+
+# Assets (falls temporär)
+assets/sounds/
+assets/images/
+*.jpg
+*.mp3
+*.png
+
+# Gradle
+gradle-wrapper.jar
+/.gradle
+/captures/
+/gradlew
+/gradlew.bat
+/local.properties
+GeneratedPluginRegistrant.java
+.cxx/
+
+# Remember to never publicly share your keystore.
+# See https://flutter.dev/to/reference-keystore
+key.properties
+**/*.keystore
+**/*.jks
